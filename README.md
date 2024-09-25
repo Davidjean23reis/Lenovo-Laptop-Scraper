@@ -58,7 +58,7 @@ http://localhost:3000/laptops/lenovo
 Método de requisição:
 
 Selecione o método GET.
-Enviar requisição:
+Clique em Send para enviar a requisição, então você terá a lista de produtos conforme foi solicitado
 
 Devemos ter o seguinte retorno:
 Ao enviar a requisição, você deverá receber um retorno com os notebooks da marca Lenovo, com os preços de menor para o maior, e todos os dados do produto, conforme citado acima.
