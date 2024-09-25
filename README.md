@@ -14,35 +14,6 @@ reviews: Quantidade de avaliações recebidas pelo produto.
 imageUrl: Caminho da imagem do produto.
 link: Link para mais detalhes sobre o produto.
 
-Coloquei aqui abaixo um exemplo de retorno: "JSON"
-
-[
-   {
-      "title": "Lenovo V110-15...",
-      "price": 321.94,
-      "description": "Lenovo V110-15IAP, 15.6\" HD, Celeron N3350 1.1GHz, 4GB, 128GB SSD, Windows 10 Home",
-      "reviews": 5,
-      "imageUrl": "/images/test-sites/e-commerce/items/cart2.png",
-      "link": "/test-sites/e-commerce/static/product/63"
-   },
-   {
-      "title": "Lenovo ThinkPa...",
-      "price": 404.23,
-      "description": "Lenovo ThinkPad E31-80, 13.3\" HD, Celeron 3855U 1.6GHz, 4GB, 128GB SSD, Windows 10 Home",
-      "reviews": 12,
-      "imageUrl": "/images/test-sites/e-commerce/items/cart2.png",
-      "link": "/test-sites/e-commerce/static/product/72"
-   },
-   {
-      "title": "Lenovo Legion...",
-      "price": 1112.91,
-      "description": "Lenovo Legion Y520-15IKBM, Black, 15.6\" FHD IPS, Core i5-7300HQ, 8 GB, 128GB SSD + 2 TB HDD, NVIDIA GeForce GTX 1060 6 GB, FreeDOS + Windows 10 Home",
-      "reviews": 1,
-      "imageUrl": "/images/test-sites/e-commerce/items/cart2.png",
-      "link": "/test-sites/e-commerce/static/product/101"
-   }
-]
-
 Descrição dos campos:
 
 title: Nome abreviado do produto.
@@ -90,4 +61,4 @@ Selecione o método GET.
 Enviar requisição:
 
 Devemos ter o seguinte retorno:
-Ao enviar a requisição, você deverá receber um retorno com os notebooks da marca Lenovo, com os preços de menor para o maior, e todos os dados do produto, conforme o exemplo de retorno fornecido acima.
+Ao enviar a requisição, você deverá receber um retorno com os notebooks da marca Lenovo, com os preços de menor para o maior, e todos os dados do produto, conforme citado acima.
